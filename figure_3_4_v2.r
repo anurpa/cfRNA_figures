@@ -1,5 +1,4 @@
 #Pavana Anur
-#With contributions from Thuy Ngo and Breeshey Rosksams-Heiter
 # Script to generate figure 3 and 4 for cfRNA manuscript
 library(reshape2)
 library(tsne)
